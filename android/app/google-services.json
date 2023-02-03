@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "387958525772",
+    "project_id": "lugares-favoritos-kike",
+    "storage_bucket": "lugares-favoritos-kike.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387958525772:android:55d123fea877126d3149e9",
+        "android_client_info": {
+          "package_name": "com.example.lugares_favoritos_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387958525772-re7bh7laubcn4f9n5m1ji2j57scjthp1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lugares_favoritos_flutter",
+            "certificate_hash": "bb4db2a467ef780d9068f1f4a25098870609eacc"
+          }
+        },
+        {
+          "client_id": "387958525772-puqj0cru7ksu4f6i24177bjpuha3skd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbgRmutwfmbc8GuRdvgEsUub8Gex66sPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387958525772-puqj0cru7ksu4f6i24177bjpuha3skd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
